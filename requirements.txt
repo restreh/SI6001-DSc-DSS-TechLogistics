@@ -1,0 +1,19 @@
+# TechLogistics DSS - Dependencias
+# Instalar con: pip install -r requirements.txt
+
+# Framework de Dashboard
+streamlit
+
+# Procesamiento de datos
+pandas
+numpy
+
+# Visualización
+plotly
+matplotlib
+
+# Cliente de IA
+groq
+
+# Utilidades
+python-dateutil
