@@ -5,6 +5,9 @@
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
 [![Groq](https://img.shields.io/badge/Groq-00D4AA?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
 
+## 📌 Streamlit live app
+https://si6001-dsc-dss-techlogistics.streamlit.app/
+
 ## 📋 Descripción del Problema
 
 **TechLogistics S.A.** es una empresa ficticia de retail tecnológico que ha detectado:
