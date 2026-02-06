@@ -49,6 +49,6 @@ temp/
 *.tmp
 
 # API Keys
-*api_key*
+*api-key*
 *secret*
 credentials.json
